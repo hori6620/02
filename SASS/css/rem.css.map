@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,IAAI,CAAC;EACH,SAAS,EAAE,IAAkB;CAC9B",
+    "sources": [
+        "../sass/rem.scss"
+    ],
+    "names": [],
+    "file": "rem.css"
+}
